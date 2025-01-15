@@ -1,2 +1,3 @@
 # wordpress_plugin
-# wordpress_plugin
+
+Ajouter ce fichier dans wp-content/plugins
